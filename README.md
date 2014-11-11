@@ -2,7 +2,8 @@ ElectronicDice4Arduino
 ======================
 
 
---  Abstraction
+--  
+Abstraction
 An electronic dice(1d6) for an Arduino board, it also works on Intel's Galileo development board(Gen.1)!
 
 
