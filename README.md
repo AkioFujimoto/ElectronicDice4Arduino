@@ -6,6 +6,7 @@ ElectronicDice4Arduino
 ======================
 
 An electronic dice(1d6) for an Arduino board, it also works on Intel's Galileo development board(Gen.1)!
+The appearance of this document will more better in RAW mode.
 
 
 --  Hardware that you will need  --
