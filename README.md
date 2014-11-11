@@ -29,7 +29,7 @@ Arduino pin#      Dice alignment(where the LED and resistor to be putted and sol
 6                 bottom-right
 7                 bottom-center
 8                 bottom-left
---
+
 ArduinoPin# / other         connect to where
 5V                          tact switch #1
 tact switch #1              pull-down resistor
