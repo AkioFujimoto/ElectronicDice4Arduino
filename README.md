@@ -3,10 +3,14 @@ ElectronicDice4Arduino
 
 
 --  Abstraction  --
+======================
+
 An electronic dice(1d6) for an Arduino board, it also works on Intel's Galileo development board(Gen.1)!
 
 
 --  Hardware that you will need  --
+======================
+
 1 x Arduino or conpatibles, equivalent board. (First of all. :)) 
 7 x LEDs (2.1v <= Vf(Red) or higher Vf is required(Blue))
 7 x apropriate carbon resisitors for current limitting. (I used 1kOhms each.) recommended If will be 20-40mA.
@@ -20,7 +24,10 @@ or (8, 8, 6, 6)length pin socket with long legs.  (If you are about to put other
 apropriate length of electronic wire. (recommends AWG#22, heat-resistance type.)
 solders.
 
+
 -- Wiring guide --
+======================
+
 Arduino pin#      Dice alignment(where the LED and resistor to be putted and soldered.)
 2                 top-right (on the Universal board)
 3                 top-center
@@ -41,6 +48,8 @@ tact switch #2 opposite leg RESET on Arduino side
 
 
 --  Licenses  --
+======================
+
 The MIT License (MIT)
 
 Copyright (c) 2014 Akio Fujimoto.
